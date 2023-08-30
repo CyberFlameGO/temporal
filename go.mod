@@ -58,7 +58,7 @@ require (
 	google.golang.org/grpc/examples v0.0.0-20220210231334-75fd0240ac41
 	gopkg.in/square/go-jose.v2 v2.6.0
 	gopkg.in/validator.v2 v2.0.0-20210331031555-b37d688a7fb0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 )
 
 require (
